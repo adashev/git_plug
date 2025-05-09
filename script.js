@@ -4,6 +4,7 @@ function sayHi() {
 
 function work() {
     alert('Work, work!');
+    ////3-41: Создаем второй коммит и в скрипте заодно
 }
 
 function sayBye() {
